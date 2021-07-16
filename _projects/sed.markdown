@@ -66,7 +66,7 @@ In our work [1][2], we tackle this from two supplementary approaches:
 
 In brief, the networks architecture is as follows:
 
-<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mtl.png' | relative_url }}" alt="" title="example image"/>
+<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mtl.jpg' | relative_url }}" alt="" title="example image"/>
 <div class="caption">
     Our proposed self-supervised learning assisted framework for weakly supervised sound event detection. Left figure: the general
     architecture with shared encoder and multiple decoder branches. Shared encoder, primary decoder, auxiliary decoder is represented by g, g2, g4 respectively. Right figure: shows the two step attention pooling function used for primary decoder
@@ -75,7 +75,7 @@ In brief, the networks architecture is as follows:
 The proposed architecture when evaluated on test data, beats existing benchmarks by 22.3%, 12.8%, 5.9% on 0, 10 and 20 dB SNR
 respectively. The performance gains are highest when training data is very noisy (0 dB SNR)
 
-<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mtlresults.png' | relative_url }}" alt="" title="example image"/>
+<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mtlresults.jpg' | relative_url }}" alt="" title="example image"/>
 <div class="caption">
     Sound event detection performance across different SNR
 </div>

@@ -33,10 +33,10 @@ We tested the architecture on standard benchmark datasets which cover various te
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/capsuletable.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/capsuletable.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/capsuletable2.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/capsuletable2.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
