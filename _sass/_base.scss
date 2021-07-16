@@ -372,10 +372,10 @@ footer.sticky-bottom {
   ol.bibliography {
     list-style: none;
     padding: 0;
-    margin-top: 0;
+    margin-top: 0px;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: -30px;
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
@@ -398,6 +398,8 @@ footer.sticky-bottom {
       }
       .title {
         font-weight: bolder;
+        padding-bottom: 0px;
+        margin-bottom: 2px;
       }
       .author {
         a {
@@ -411,6 +413,7 @@ footer.sticky-bottom {
           border-bottom: 1px solid;
           font-style: normal;
         }
+        margin-bottom: -5px;
       }
       .links {
         a.btn {
