@@ -22,8 +22,8 @@ nav: true
 <!--## - [Fall 2018] TA: Neural Networks and Fuzzy Logic, with [Prof. Faruk Kazi](), VJTI. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Responsibilities include creating and improving assignments and homeworks.-->
 
-<!--## Mentoring -->
-<!-- - [Microsoft, Summer 2021] Interns: Ruijie Zhou, Neha Nishikanth, Nick Matton -->
+## Mentoring/Co-mentoring
+- [Microsoft 2021] Summer interns: [Ruijie Zhou](https://scholar.google.com/citations?user=lAbyUI8AAAAJ), [Neha Nishikanth](https://www.linkedin.com/in/neha-nishikant), [Nick Matton](https://www.linkedin.com/in/nick-matton-71197b160)
 
 ## Press
 - [Business Insider 2020](https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4) Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk
