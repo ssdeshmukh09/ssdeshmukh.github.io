@@ -83,6 +83,6 @@ respectively. The performance gains are highest when training data is very noisy
 If you are interested in learning more about Sound event detection, this [reading list](https://github.com/soham97/awesome-sound_event_detection) is a good start.
 
 ## References
-[1] "Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection", Soham Deshmukh, Bhiksha Raj, Rita Singh- MS graduate report
+[1] "Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection", Soham Deshmukh, Bhiksha Raj, Rita Singh- MS graduate report, [arXiv:2008.07085](https://arxiv.org/abs/2008.07085)
 
-[2] "Improving weakly supervised sound event detection with self-supervised auxiliary tasks", Soham Deshmukh, Bhiksha Raj, Rita Singh- INTERSPEECH 2021
+[2] "Improving weakly supervised sound event detection with self-supervised auxiliary tasks", Soham Deshmukh, Bhiksha Raj, Rita Singh- INTERSPEECH 2021, [arXiv:2106.0685](https://arxiv.org/abs/2106.06858)
