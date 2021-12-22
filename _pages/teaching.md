@@ -26,6 +26,7 @@ nav: true
 - [Microsoft 2021] Summer interns: [Ruijie Zhou](https://scholar.google.com/citations?user=lAbyUI8AAAAJ), [Neha Nishikanth](https://www.linkedin.com/in/neha-nishikant), [Nick Matton](https://www.linkedin.com/in/nick-matton-71197b160)
 
 ## Press
+- [Microsoft Garage 2021](https://www.credly.com/badges/52315cc2-c5b5-46d1-a73b-e26f0b5899c3/public_url) Internal coverage for hackathon project in the area of speech and audio
 - [Business Insider 2020](https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4) Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk
 - [Pittsburgh news 2020](https://pittsburgh.cbslocal.com/2020/03/31/carnegie-mellon-university-coronavirus-voice-app/) Coronavirus detected by voice? Carnegie Mellon researchers Develop app to ‘listen’ for signs of COVID-19
 - [Forbes 2020](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/?sh=3aa0973f5436) AI and medical diagnostics: can a smartphone app detect COVID-19 from speech or cough?
