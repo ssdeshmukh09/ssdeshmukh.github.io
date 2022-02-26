@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.microsoft.com/en-us/research/people/sdeshmukh/">Applied Scientist</a>, <a href="https://www.microsoft.com/en-us/research/project/scheduler/">Scheduler</a>, <a href="https://www.microsoft.com">Microsoft</a>
+description: <a href="https://www.microsoft.com/en-us/research/people/sdeshmukh/">Applied Scientist</a>, <a href="https://www.microsoft.com">Microsoft</a>
 
 profile:
   align: right
