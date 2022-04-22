@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.microsoft.com/en-us/research/people/sdeshmukh/">Applied Scientist</a>, <a href="https://www.microsoft.com">Microsoft</a>
+description: <a href="https://ssdeshmukh.github.io">Deputy General Manager</a>, <a href="https://www.godrejinfotech.com/">Godrej Infotech Limited</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: #> s 'dot' deshmuk 'at' cs 'dot' cmu 'dot' edu
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am an applied scientist at Microsoft. I am interested in weakly supervised learning with applications in audio scene understanding and task oriented natural language understanding. Work research page here: [Soham at Microsoft](https://www.microsoft.com/en-us/research/people/sdeshmukh/)
