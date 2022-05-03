@@ -6,7 +6,7 @@ description: <a href="https://ssdeshmukh.github.io">Deputy General Manager</a>, 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   address: #> s 'dot' deshmuk 'at' cs 'dot' cmu 'dot' edu
 
 news: false  # includes a list of news items
