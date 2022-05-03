@@ -3,6 +3,6 @@ layout: page
 permalink: /bio/
 title: bio
 description:
-nav: true
+nav: false
 ---
 Add bio here

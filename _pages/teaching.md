@@ -3,7 +3,7 @@ layout: page
 permalink: /notable/
 title: notable
 description: 
-nav: true
+nav: false
 ---
 ## Notable achievements
 
